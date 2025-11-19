@@ -201,13 +201,4 @@ License: CC BY 4.0
 
 **Creative Commons Attribution 4.0 (CC BY 4.0)** – free use with attribution.
 
----
 
-ถ้าต้องการ:
-
-* **เวอร์ชัน Minimal**,
-* **เวอร์ชันพร้อมภาพประกอบ**,
-* **เวอร์ชันที่เน้น Horizon/Planck Derivation**,
-* หรือ **คู่มือ Contributors**
-
-บอกได้เลยค่ะ!
