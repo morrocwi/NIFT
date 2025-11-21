@@ -11,6 +11,7 @@
   </a>
 </p>
 
+Lahtee, Y. (2025). Non-Equilibrium Informational Field Theory Axioms. Zenodo. https://doi.org/10.5281/zenodo.17668148
 ---
 
 # **1. Philosophical Foundation**
